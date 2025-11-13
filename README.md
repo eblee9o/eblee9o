@@ -12,12 +12,17 @@
 ---
 
 <h2> 📝Projects</h2>
-<p dir="auto">
-  <a href="https://github.com/eblee9o/CloudHealth.git">하이브리드 클라우드를 활용한 헬스케어 서비스</a>
-</p>
 
+---
+<h3>하이브리드 클라우드를 활용한 헬스케어 서비스</h3>
+<p dir="auto">새로운 일상에 맞는 헬스케어 서비스를 구축하고, 다양한 분야로 확장 가능한 클라우드 기반 인프라를 구현하고자 하였습니다. </p>
+<li>개발기간</li>
+li>핵심역할</li>
 <p dir="auto">
   <a href="https://general-fairy-83d.notion.site/263ccb10a452814aa21dde0dc2c61558?source=copy_link">하이브리드 클라우드를 활용한 헬스케어 서비스</a>
+</p>
+<p dir="auto">
+  <a href="https://github.com/eblee9o/CloudHealth.git">backend 구성</a>
 </p>
 ---
 
