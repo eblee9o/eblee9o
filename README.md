@@ -11,7 +11,13 @@
 
 ---
 
-<h3> 📝Projects</h3>
-<iframe src="https://general-fairy-83d.notion.site/ebd/263ccb10a452814aa21dde0dc2c61558" width="100%" height="600" frameborder="0" allowfullscreen />
+<h2> 📝Projects</h2>
+<p dir="auto">
+  <a href="https://github.com/eblee9o/CloudHealth.git">하이브리드 클라우드를 활용한 헬스케어 서비스</a>
+</p>
+
+<p dir="auto">
+  <a href="https://general-fairy-83d.notion.site/263ccb10a452814aa21dde0dc2c61558?source=copy_link">하이브리드 클라우드를 활용한 헬스케어 서비스</a>
+</p>
 ---
 
