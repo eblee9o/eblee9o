@@ -38,10 +38,10 @@
 
 3. [프로젝트 관련 링크]
     <p dir="auto">
-      <a href="https://general-fairy-83d.notion.site/263ccb10a452814aa21dde0dc2c61558?source=copy_link">하이브리드 클라우드를 활용한 헬스케어 서비스</a>
+      노션 : <a href="https://general-fairy-83d.notion.site/263ccb10a452814aa21dde0dc2c61558?source=copy_link">하이브리드 클라우드를 활용한 헬스케어 서비스</a>
     </p>
     <p dir="auto">
-      <a href="https://github.com/eblee9o/CloudHealth.git">backend 구성</a>
+      git : <a href="https://github.com/eblee9o/CloudHealth.git">backend 구성</a>
     </p>
 
 ---
