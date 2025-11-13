@@ -13,7 +13,7 @@
 
 ## 📒 프로젝트
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/de8572b4-ce8e-4f4d-abbb-76eadfbb1c2e" /> ### 하이브리드 클라우드를 활용한 헬스케어 서비스
+ ### 하이브리드 클라우드를 활용한 헬스케어 서비스
 
 1. [개발기간] : 2023.12.1 ~ 2025.1.2 </li>
 2. [프로젝트 기여]
