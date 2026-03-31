@@ -28,10 +28,9 @@
 
 3. [프로젝트 관련 링크]
     <p dir="auto">
-      git : <a href="https://github.com/eblee9o/delivery.git">backend 구성</a>
-    </p>
-    <p dir="auto">
-      git : <a href="https://github.com/eblee9o/delivery_site.git">frontend 구성</a>
+      git : 
+     <a href="https://github.com/eblee9o/delivery.git">backend 구성</a>
+     <a href="https://github.com/eblee9o/delivery_site.git">frontend 구성</a>  
     </p>
 
  ### 하이브리드 클라우드를 활용한 헬스케어 서비스
